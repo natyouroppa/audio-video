@@ -1,0 +1,24 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>HTML Audio and Video Lab</title>
+</head>
+<body>
+<h1>SPORTS, SPORTS, SPORTS</h1>
+<section>
+  <h2>GQ feat/ SGA</h2>
+<video controls width="640">
+<source src="https://image2url.com/r2/default/videos/1771204896315-2594dd1f-ee38-4ee7-ad5c-0fd9c9ff4d37.mp4"type="video/mp4"/>
+</section>
+<section>
+  <h2>NOW PLAYING: Squabble Up - Kendrick Lamar</h2>
+  <audio controls loop src="https://image2url.com/r2/default/audio/1771205321159-5f16ce9a-7e51-4bef-9d5b-a8722cbb780a.mp3"type="audio/mp3"/>
+</body>
+</html>
+
+** end of index.html **
+
